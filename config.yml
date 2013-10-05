@@ -1,0 +1,7 @@
+world: mcMafiaWorld
+interval: 5
+screamInterval: 3
+spawnX: 5
+spawnY: 5
+spawnZ: 5
+mineWorld: MiningMap

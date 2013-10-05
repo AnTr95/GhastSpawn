@@ -1,0 +1,10 @@
+name: GhastSpawn
+main: net.tehwarriors.mc.plugins.ghastPlugin.GhastSpawn
+version: 2.4
+commands:
+    gsreload:
+        description: Reloads GhastSpawn config.
+        usage: /<command>
+    gstime:
+        description: base command for GhastSpawn.
+        usage: /<command>
